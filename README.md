@@ -12,6 +12,42 @@ This is a simple To-Do website built using React. It allows users to add tasks, 
 - Delete tasks when completed.
 - Persistent task storage using local storage.
 - Responsive and user-friendly design.
+  
+---
+
+## Technologies Used  
+
+- **Frontend**:  
+  - **React.js**: A JavaScript library for building interactive and dynamic user interfaces.  
+  - **CSS**: Used for styling the UI, ensuring a clean, responsive, and user-friendly design.  
+
+- **Storage**:  
+  - **Local Storage**: Leveraged to store the to-do list data, ensuring it persists even after the browser is closed or refreshed.  
+
+- **Other Tools**:  
+  - **GitHub**: Used for version control and collaboration.  
+  - **Create React App**: Toolchain for quickly setting up a React project with a modern build setup.  
+
+---
+
+## Setup and Installation
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/archiprasad/todos-list.git
+   cd todos-list
+   ```
+
+2. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Run the Development Server**:
+   ```bash
+   npm run start
+   ```
+
+---
 
 ## Available Scripts
 
